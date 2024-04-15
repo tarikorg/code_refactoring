@@ -20,8 +20,8 @@ It can be used to see my code refactoring skills, redirect the user on their int
 Rutgers Bootcamp.
 
 ## Deployment
-Link to my repo - Module 01(https://github.com/tarikorg/code_refactoring)
-Link to deployed application - https://tarikorg.github.io/code_refactoring/
+- Link to my repo - Module 01(https://github.com/tarikorg/code_refactoring)
+- Link to deployed application - https://tarikorg.github.io/code_refactoring/
 
 ## License
 
