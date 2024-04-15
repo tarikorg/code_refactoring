@@ -21,6 +21,7 @@ Rutgers Bootcamp.
 
 ## Deployment
 Link to my repo - Module 01(https://github.com/tarikorg/code_refactoring)
+Link to deployed application - https://tarikorg.github.io/code_refactoring/
 
 ## License
 
